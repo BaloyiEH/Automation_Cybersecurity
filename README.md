@@ -4,7 +4,7 @@ Welcome to my cybersecurity automation portfolio. This repository contains Pytho
 
 ---
 
-## 👤 About Me
+##  About Me
 
 - **Name:** Elphas Baloyi
 - **Location:** South Africa
@@ -21,11 +21,11 @@ Welcome to my cybersecurity automation portfolio. This repository contains Pytho
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category | Skills |
 |---|---|
-| **Scripting & Automation** | Python, Bash, file handling, APIs, JSON |
+| **Scripting & Automation** | Python, file handling, APIs, JSON |
 | **Security Tools** | Nmap (CLI + Zenmap), Splunk, Scapy, Wireshark (basic) |
 | **Machine Learning** | scikit-learn, Random Forest, anomaly detection, feature extraction |
 | **Operating Systems** | Windows, Linux (WSL/Ubuntu) |
@@ -35,7 +35,7 @@ Welcome to my cybersecurity automation portfolio. This repository contains Pytho
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 1. Nmap Automation Scanner
 **Folder:** `nmap_scanner/` *(or root-level `first_scan.py`)*
@@ -60,15 +60,3 @@ An end-to-end pipeline that simulates network traffic, detects malicious activit
   - `train_model.py` — Random Forest classifier (in progress)
 - **Output:** `.pcap` files, detection logs, JSON reports for Splunk
 - **Skills demonstrated:** Packet analysis, signature-based detection, anomaly detection, ML pipeline design
-
----
-
-## 🚀 How to Use This Repo
-
-### Option 1: GitHub Codespaces (Recommended)
-
-1. Click the green **Code** button → **Codespaces** → **Create codespace on main**
-2. Wait for the environment to build (about 1–2 minutes)
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
