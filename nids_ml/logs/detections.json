@@ -1,0 +1,11 @@
+{
+    "scan_time": "2026-10-11T11:34:43.306439",
+    "total_packets": 100,
+    "nimda_detections": 27,
+    "rate_violations": 0,
+    "total_blocked_ips": 2,
+    "blocked_ips": [
+        "10.0.0.66",
+        "10.0.0.99"
+    ]
+}
