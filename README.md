@@ -7,7 +7,7 @@ Welcome to my cybersecurity automation portfolio. This repository contains Pytho
 ##  About Me
 
 - **Name:** Elphas Baloyi
-- **Location:** Gauteng, Roodepoorte | Western Cape, Cape Town(Parow), Limpopo (Polokwane) and available remotely and also willing to relocate
+- **Location:** Gauteng, Roodepoorte | Western Cape, Cape Town| Limpopo (Polokwane) | available remotely (also willing to relocate)
 - **Career Goal:** SOC Analyst / Blue Team / Security Automation
 - **Background:** BSc Computer Science (completing November 2026)
 - **Certifications:**
