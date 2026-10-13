@@ -2,6 +2,8 @@
 
 A Python-based network intrusion detection pipeline that simulates, detects, and classifies malicious traffic using machine learning.
 
+![NIDS SOC Dashboard](screenshots/dashboard.png)
+
 ## What This Project Does
 
 1. **Simulates network traffic** — generates normal and malicious (Nimda worm) packets using Scapy
