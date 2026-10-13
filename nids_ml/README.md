@@ -2,7 +2,7 @@
 
 A Python-based network intrusion detection pipeline that simulates, detects, and classifies malicious traffic using machine learning.
 
-![NIDS SOC Dashboard](Screenshots/Screenshot (15).png)
+![NIDS SOC Dashboard] (Screenshots/Screenshot (15).png)
 
 
 ## What This Project Does
