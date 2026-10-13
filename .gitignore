@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 results/
+scan_scanme_nmap_org.json
+nids_ml/data/*.pcap
+nids_ml/logs/*.log
+nids_ml/logs/*.json
+nids_ml/models/
