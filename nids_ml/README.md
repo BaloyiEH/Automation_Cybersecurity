@@ -6,15 +6,14 @@ A Python-based network intrusion detection pipeline that simulates, detects, and
 
 ### Splunk SOC Dashboard
 ![NIDS SOC Dashboard](Screenshots/07_dashboard_full.png)
+### Dashboard 2
+![SPL Queries](Screenshots/09_spl_queries.png)
 
 ### Detection Results in Splunk
 ![Detection Results](Screenshots/03_search_results.png)
 
-### Uploading JSON to Splunk
-![Upload JSON](Screenshots/02_upload_json.png)
 
-### SPL Queries Used
-![SPL Queries](Screenshots/09_spl_queries.png)
+
 
 ## What This Project Does
 
