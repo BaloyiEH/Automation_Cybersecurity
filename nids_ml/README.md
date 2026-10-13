@@ -2,7 +2,19 @@
 
 A Python-based network intrusion detection pipeline that simulates, detects, and classifies malicious traffic using machine learning.
 
+## Screenshots
 
+### Splunk SOC Dashboard
+![NIDS SOC Dashboard](Screenshots/07_dashboard_full.png)
+
+### Detection Results in Splunk
+![Detection Results](Screenshots/03_search_results.png)
+
+### Uploading JSON to Splunk
+![Upload JSON](Screenshots/02_upload_json.png)
+
+### SPL Queries Used
+![SPL Queries](Screenshots/09_spl_queries.png)
 
 ## What This Project Does
 
@@ -100,7 +112,6 @@ The detection logic is adapted from public NIDS tutorials. Substantial modificat
 ## Next Steps
 
 - [ ] Test on public datasets (CICIDS2017, NSL-KDD)
-- [ ] Build Splunk dashboard from detection JSON
 - [ ] Add more attack signatures (SQL injection, port scans, XSS)
 - [ ] Automate the pipeline with Splunk HEC
 - [ ] Containerize with Docker for portability
