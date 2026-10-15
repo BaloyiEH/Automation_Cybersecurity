@@ -22,7 +22,7 @@ Welcome to my cybersecurity automation portfolio. This repository contains Pytho
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category | Skills |
 |---|---|
@@ -36,7 +36,7 @@ Welcome to my cybersecurity automation portfolio. This repository contains Pytho
 
 ---
 
-## 📁 Projects
+##  Projects
 
 ### 1. Network Intrusion Detection System (NIDS) with ML
 **Folder:** [`nids_ml/`](nids_ml/)
@@ -62,7 +62,7 @@ A Python script that automates Nmap network scans and outputs structured JSON re
 
 ---
 
-## 🚀 How to Use This Repo
+##  How to Use This Repo
 
 ### Option 1: GitHub Codespaces (Recommended)
 
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 All Python dependencies are listed in `requirements.txt`. Key libraries:
 
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Skills Demonstrated Across Projects
+##  Skills Demonstrated Across Projects
 
 | Skill | Where It's Shown |
 |---|---|
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Completing the Let's Defend SOC Analyst path
 - Building a phishing email analyzer and brute force detector
@@ -133,14 +133,14 @@ pip install -r requirements.txt
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **GitHub:** [@BaloyiEH](https://github.com/BaloyiEH)
 
 
 ---
 
-## 📜 Credits & Acknowledgements
+##  Credits & Acknowledgements
 
 This portfolio is built on continuous learning from multiple sources, including:
 
